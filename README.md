@@ -1,8 +1,8 @@
 # Exercício 3.1 — Service Blueprint AS-IS de um Serviço Público
 
-**Aluno:** _Seu Nome Completo Aqui_
+**Aluno:** Elisangela Andrade Rocha Osorio
 **Disciplina:** IDP-TD 2026
-**Serviço escolhido:** _Ex.: Atendimento ao Seguro-Desemprego pela URA da Caixa_
+**Serviço escolhido:** Atendimento ao Seguro-Desemprego pela URA da Caixa_
 
 ---
 
